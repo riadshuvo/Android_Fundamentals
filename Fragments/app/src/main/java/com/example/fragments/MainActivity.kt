@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         val firstFragment = FirstFragment()
         val secondFragment = SecondFragment()
 
+        //default fragment set in main activity
         supportFragmentManager.beginTransaction().apply {
             replace(R.id.flFragment,firstFragment)
             commit()

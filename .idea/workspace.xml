@@ -4,10 +4,11 @@
     <list default="true" id="904682fb-328f-43d2-ad89-bc199e2d945c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Exoplayer_RecyclerView/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Youtube_Android/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exoplayer_RecyclerView" beforeDir="false" afterPath="$PROJECT_DIR$/Exoplayer_RecyclerView" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exoplayer_RecyclerView/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exoplayer_RecyclerView/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaPlayerBasic/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MediaPlayerBasic/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Youtube_Android" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube_Android" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Youtube_Android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Youtube_Android/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Youtube_Android" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -46,9 +47,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596118647836">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596226523035">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1596118647836" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1596226523035" />
   </component>
 </project>

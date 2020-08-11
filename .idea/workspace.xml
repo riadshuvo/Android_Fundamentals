@@ -2,40 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="904682fb-328f-43d2-ad89-bc199e2d945c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/androidTest/java/com/example/implicit_intents/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/java/com/example/implicit_intents/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/app/src/test/java/com/example/implicit_intents/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/androidTest/java/com/example/googlemap_locationtrack_firebase_server/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/java/com/example/googlemap_locationtrack_firebase_server/MapsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/release/res/values/google_maps_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/app/src/test/java/com/example/googlemap_locationtrack_firebase_server/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GoogleMap_LocationTrack_Firebase_Server/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMPLICIT_INTENTS/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IMPLICIT_INTENTS/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,16 +82,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596619573224">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596991052056">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1596619573224" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1596991052056" />
   </component>
 </project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMap_LocationTrack_Firebase_Server</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="longitude" />
+    <string name="update" />
+    <string name="latitude" />
+</resources>

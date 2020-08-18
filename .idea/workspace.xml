@@ -2,54 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="904682fb-328f-43d2-ad89-bc199e2d945c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/androidTest/java/com/example/swipe_page_viewpager2/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/java/com/example/swipe_page_viewpager2/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/java/com/example/swipe_page_viewpager2/ViewPagerAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/drawable/shuvo6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/layout/item_view_pager.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/app/src/test/java/com/example/swipe_page_viewpager2/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Swipe_Page_ViewPager2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/androidTest/java/com/example/toolbar_menu/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/java/com/example/toolbar_menu/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-anydpi/ic_add_person.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-anydpi/ic_favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-anydpi/ic_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-hdpi/ic_add_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-hdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-hdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-mdpi/ic_add_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-mdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-mdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xhdpi/ic_add_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xhdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xxhdpi/ic_add_person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xxhdpi/ic_favorite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable-xxhdpi/ic_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/menu/app_bar_manu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/app/src/test/java/com/example/toolbar_menu/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToolBar_Menu/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,10 +107,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597676609330">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1597761647692">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1597676609330" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1597761647692" />
     <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1597161576604" />
     <state x="346" y="89" key="search.everywhere.popup" timestamp="1597160888229">
       <screen x="0" y="27" width="1366" height="741" />
